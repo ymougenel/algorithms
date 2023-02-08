@@ -1,5 +1,7 @@
 # Algorithms
 
+## Sorting list
+[README](./sort)
 ## Fractals
 
 ### Spierpinski triangle
